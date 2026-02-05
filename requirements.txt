@@ -50,7 +50,7 @@ pickleshare==0.7.5
 Pillow==10.3.0
 platformdirs==3.2.0
 prompt-toolkit==3.0.38
-protobuf==4.25.8
+protobuf==5.29.6
 psutil==5.9.5
 ptyprocess==0.7.0
 pure-eval==0.2.2
