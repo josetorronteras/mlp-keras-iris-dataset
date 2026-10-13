@@ -40,7 +40,7 @@ matplotlib-inline==0.1.6
 ml-dtypes==0.1.0
 nest-asyncio==1.5.6
 numpy==1.23.5
-oauthlib==3.2.2
+oauthlib==4.0.0
 opt-einsum==3.3.0
 packaging==23.1
 pandas==2.0.0
